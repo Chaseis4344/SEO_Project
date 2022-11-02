@@ -14,29 +14,7 @@
 	</head>
   <body style="background-color: #92B9BD ">
 	<!--Navagation-->
-	<nav class="navbar navbar-expand-md navbar-dark bg-primary flex-nowrap">
-	  <button class="navbar-toggler mr-2" type="button" data-toggle="collapse">
-			<span class="navbar-toggler-icon"></span>
-	  </button>
-		<span class="navbar-brand w-100"></span>
-		<div class="navbar-collapse collapse w-100 justify-content-center">
-			<ul class="navbar-nav mx-auto">
-				<li class="nav-item">
-					<a class="nav-link" href="#">Shop</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link active" href="landing.html">Car to Sky</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="about-us.html">About</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="blog.html">Blog</a>
-				</li>
-			</ul>
-		</div>
-	  <div class="w-100"><!--spacer--></div>
-  	</nav>
+	<?php include("navbar.php")?>
 	  
   <div class="container-bg">
     <hr class="dashed">
@@ -102,26 +80,7 @@
     <hr class="dashed">
   </div>
 	  
-	<footer>
-	  <div class="row">
-		  <div class="col-xl-4">
-	      <img src="img/cartoskylogo.png" alt="" width="400" height="200" class="img-fluid"/> </div>
-		  <div class="col-xl-4">
-			  <div>
-				  <h4>Pages</h4>
-				  <div>
-					<p><a href="url">Home</a><br><a href="url">About</a><br><a href="url">Shop</a></p>
-				  </div>
-		    </div>
-		  </div>
-		  <div class="col-xl-4">
-			  <div>
-				  <h4>Helpful Links</h4>
-				  <p><a href="url">Blog</a><br><a href="url">Track Shipment</a><br><a href="url">Customer Service</a></p>
-		    </div>
-		  </div>
-	  </div>
-    </footer>
+	<?php include("footer.php")?>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 	<script src="js/jquery-3.4.1.min.js"></script>
 
