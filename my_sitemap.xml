@@ -1,14 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://cartosky.com/index.html</loc>
+		<loc>http://cartosky.com/index.php</loc>
 		<lastmod>2022-10-30</lastmod>
 	</url>
 	<url>
-		<loc>http://cartosky.com/blog.html</loc>
+		<loc>http://cartosky.com/blog.php</loc>
 		<lastmod>2022-10-30</lastmod>
 	</url>
 	<url>
-		<loc>http://cartosky.com/landing.html</loc>
+		<loc>http://cartosky.com/landing.php</loc>
 		<lastmod>2022-10-30</lastmod>
 	</url>
 	<url>
@@ -16,7 +16,7 @@
 		<lastmod>2022-10-30</lastmod>
 	</url>
 	<url>
-		<loc>http://cartosky.com/about-us.html</loc>
+		<loc>http://cartosky.com/about-us.php</loc>
 		<lastmod>2022-10-30</lastmod>
 	</url>
 </urlset>
