@@ -24,7 +24,7 @@
 	</div>
 	<div class="filter-containter">
 		<div class="filter-titles">
-		<p>Sort:</p>
+		<p>Search:</p>
 		<p>Collections:</p>
 		</div>
 		<div class="filter-options">
@@ -46,7 +46,7 @@
 	<div class="products-container">
 	<div class= "product-block">
 		<div class="product-image">
-			<img src="img/SUV.jpg" alt="">
+			<img src="img/SUV.jpg" alt="SUV">
 		</div>
 		<p class="product-title"> SUV Helicopter Kit</p>
 		<p> $1000.00</p>
@@ -56,7 +56,7 @@
 		</div>
 	<div class= "product-block">
 		<div class="product-image">
-			<img src="img/Convertible.jpg" alt="">
+			<img src="img/Convertible.jpg" alt="Convertible">
 		</div>
 		<p class="product-title"> Convertible Helicopter Kit</p>
 		<p> $1000.00</p>
@@ -66,7 +66,7 @@
 		</div>
 	<div class= "product-block">
 		<div class="product-image">
-			<img src="img/Pickup_Truck.jpg" alt="">
+			<img src="img/Pickup_Truck.jpg" alt="Pickup Truck">
 		</div>
 		<p class="product-title"> Pickup Truck Helicopter Kit</p>
 		<p> $1000.00</p>
@@ -76,7 +76,7 @@
 		</div>
 	<div class= "product-block">
 		<div class="product-image">
-			<img src="img/Minivan.jpg" alt="">
+			<img src="img/Minivan.jpg" alt="Minivan">
 		</div>
 		<p class="product-title"> Minivan Helicopter Kit</p>
 		<p> $1000.00</p>
@@ -86,7 +86,7 @@
 		</div>
 	<div class= "product-block">
 		<div class="product-image">
-			<img src="img/Coupe.jpg" alt="">
+			<img src="img/Coupe.jpg" alt="Coupe">
 		</div>
 		<p class="product-title"> Coupe Helicopter Kit</p>
 		<p> $1000.00</p>
@@ -96,7 +96,7 @@
 		</div>
 	<div class= "product-block">
 		<div class="product-image">
-		<img src="img/Hatchback.jpg" alt="">
+		<img src="img/Hatchback.jpg" alt="Hatchback">
 		</div>
 		<p class="product-title"> Hatchback Helicopter Kit</p>
 		<p> $1000.00</p>
